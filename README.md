@@ -1,10 +1,11 @@
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
-
+<h3> <a href="https://github.com/yonismuse/osticket-prereqs"> Enterprise Help Desk System Implementation Part 1</a></h3>
+<h3> <a href="https://github.com/yonismuse/osTicket-lifecycle"> Enterprise Help Desk System Implementation Part 3</a></h3>
 <h1>osTicket - Post Configuration Setup</h1>
 </p>
-This tutorial demonstrates the post configuration setup of the osTicket system .<br />
+This part of the project demonstrates the post configuration setup of the osTicket system .<br />
 
 <p>
 
